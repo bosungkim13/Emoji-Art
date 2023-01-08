@@ -6,7 +6,7 @@ Emoji Art what it contains
 
 1. Can create a document and it will be persisted in Userdefaults or FileManager
 2. Can add different types of emojis by dragging and dropping
-3. if you don’t like existing ones, then add new ones to emoji list and they are categorized.
+3. If you don’t like existing ones, then add new ones to emoji list and they are categorized.
 4. Can add background image by dragging and dropping with multi window in iPad , copying it to Pasteboard , selecting from photo library or taking a picture from camera if device supports.
 5. Basic gestures are added.
 6. will be auto saved.
